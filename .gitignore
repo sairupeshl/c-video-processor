@@ -1,0 +1,19 @@
+# Compiled executable
+filter
+filter.exe
+image_engine
+
+# Heavy media files
+*.mp4
+*.bmp
+*.avi
+*.mov
+
+# Temporary processing folders
+frames/
+processed/
+
+# Junk files
+.DS_Store
+Thumbs.db
+.vscode/
