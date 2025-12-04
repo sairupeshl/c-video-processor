@@ -51,3 +51,7 @@ chmod +x process_video.sh
 - Memory Management: Manual stack/heap allocation for image buffers.
 - Math: Custom implementation of rounding and square root logic using math.h.
 - Performance: Optimized for cache locality by processing contiguous memory blocks of uncompressed bitmap data.
+
+## Acknowledgements
+
+This project was inspired by **Filter-More** from Problem Set 4 of CS50x: Introduction to Computer Science course (Harvard University).
